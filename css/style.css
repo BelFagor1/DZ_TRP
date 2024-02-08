@@ -1,0 +1,47 @@
+
+.head1{
+	border-bottom: 2px solid brown;
+	display: flex;
+	background-color: #3399ff;
+	position:fixed; left:0px; top:0px; width:100%;
+}
+.right{
+	margin-left: 70%;
+	margin-top: 50px;
+	font-size: x-large;
+}
+footer{
+	position:fixed; left:0px; bottom:0px; width:100%;
+	text-align: center;
+	background: #333333;
+	color: white;
+}
+.wind{
+	margin: 150px auto;
+	width: 350px;
+	text-align: center;
+	border: 1px solid slategray;
+}
+.milk{
+	background-color: #3399ff;
+	font-size:x-large;
+	color: aliceblue;
+	height: 30px;
+}
+.vvid{
+	display: flex;
+}
+.trp{
+	margin: 50px auto;
+	width: 300px;
+}
+.r{
+	margin-right: 10px;
+}
+.er{
+	margin-right: 38px;
+}
+.button{
+	width: 70px;
+	margin-left: 145px;
+}
